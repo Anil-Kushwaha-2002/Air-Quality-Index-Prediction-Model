@@ -1,6 +1,8 @@
 # Air Quality Index (AQI) Prediction Model
 
-Google Colab Link - https://colab.research.google.com/drive/1kO4ofWJZRvv3IrxVPR75K25dOxJ3uQeL?usp=sharing
+## Google Colab Link
+[Click here to access the AQI Prediction Model Notebook on Google Colab](https://colab.research.google.com/drive/1kO4ofWJZRvv3IrxVPR75K25dOxJ3uQeL?usp=sharing)
+
 
 ## Project Overview
 
