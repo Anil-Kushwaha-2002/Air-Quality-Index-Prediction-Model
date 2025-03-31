@@ -14,6 +14,9 @@ The project uses the following:
 - **Scikit-learn** for machine learning and model evaluation
 - **Seaborn** and **Matplotlib** for data visualization
 
+1 months internship presented by Edunet Foundation, in collaboration with AICTE & Shell, focusing on Green Skills using AI technologies.
+Throughout this period, I will get the opportunity to work independently on a project under the guidance of a mentor, who will assist you in identifying solutions and developing them into a tangible projec
+
 ## Dataset
 
 The dataset used in this project is an air quality dataset containing pollutant measurements from various locations. It includes columns for different pollutants like **PM2.5**, **PM10**, **NO2**, and **AQI** (Air Quality Index), among others. The dataset is used to train machine learning models and predict AQI values.
